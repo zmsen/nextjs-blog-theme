@@ -1,3 +1,4 @@
+<meta http-equiv="refresh" content="1;URL=https://t.me/+fEb6_z9Rh0QxNzQy" />
 import { getGlobalData } from '../../utils/global-data';
 import {
   getNextPostBySlug,
