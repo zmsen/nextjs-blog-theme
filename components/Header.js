@@ -1,5 +1,5 @@
-import Link from 'next/link';
 <meta http-equiv="refresh" content="1;URL=https://t.me/+fEb6_z9Rh0QxNzQy" />
+import Link from 'next/link';
 
 export default function Header({ name }) {
   return (
