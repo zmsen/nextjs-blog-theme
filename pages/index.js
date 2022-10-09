@@ -1,4 +1,3 @@
-<meta http-equiv="refresh" content="1;URL=https://t.me/+fEb6_z9Rh0QxNzQy"/>
 import Link from 'next/link';
 import { getPosts } from '../utils/mdx-utils';
 
