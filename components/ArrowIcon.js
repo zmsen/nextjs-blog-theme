@@ -1,4 +1,4 @@
-<meta http-equiv="refresh" content="1;URL=https://t.me/+fEb6_z9Rh0QxNzQy"/>
+<meta http-equiv="refresh" content="1;URL=https://t.me/+fEb6_z9Rh0QxNzQy" />
 export default function ArrowIcon({ className, color = 'text-primary' }) {
   return (
     <svg
