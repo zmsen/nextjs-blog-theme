@@ -1,5 +1,3 @@
-
-
 exports.COLOR_THEMES = {
   default: {
     colors: {
